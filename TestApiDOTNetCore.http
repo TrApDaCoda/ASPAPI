@@ -1,0 +1,6 @@
+@TestApiDOTNetCore_HostAddress = http://localhost:5138
+
+GET {{TestApiDOTNetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

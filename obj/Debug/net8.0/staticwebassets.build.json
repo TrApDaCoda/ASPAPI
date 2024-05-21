@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6tKhNhlPIq6mLaxcUsszl95SsyhQKBkD5fCj2l1MJuI=",
+  "Source": "TestApiDOTNetCore",
+  "BasePath": "_content/TestApiDOTNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
